@@ -44,3 +44,5 @@ The following test scenarios are to be applied (on both binary and grayscale):
 
 - Feel free to expand on the project by experimenting with different kernel sizes, structuring elements, and image types.
 - Encourage collaboration and contributions from others interested in image processing and computer vision.
+
+For a more insightful look, please check out the project pdf to learn more about the specifics of each function.
